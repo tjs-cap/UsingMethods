@@ -4,7 +4,6 @@ public class Demo {
     public static void main(String[] args) {
         boolean run = true;
         String choice;
-        Scanner reader = new Scanner(System.in);
 
         do {
             choice = displayMenu();
